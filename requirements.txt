@@ -40,7 +40,7 @@ smmap
 termcolor
 tiktoken
 tomli
-tqdm==4.65.0
-urllib3==1.26.15
-wcwidth==0.2.6
-yarl==1.9.2
+tqdm
+urllib3
+wcwidth
+yarl
