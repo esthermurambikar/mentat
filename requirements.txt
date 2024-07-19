@@ -38,7 +38,6 @@ ruff
 six
 smmap
 termcolor
-tiktoken
 tomli
 tqdm
 urllib3
